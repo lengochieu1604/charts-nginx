@@ -9,8 +9,7 @@ Some common Helm commands for you
 
 ## Search for charts, or list all the charts by repo's name
     $ helm search repo lengochieu1604
-    NAME                          	CHART VERSION	APP VERSION	DESCRIPTION
-    lengochieu1604/ambassador-ssl 	0.1.0        	1.0.0      	A Helm chart for Kubernetes
+![image](https://user-images.githubusercontent.com/98753976/162600867-1a5fd7de-d540-4374-a786-f4031e1defbe.png)
 
 ## Get configurations (values file)
     $ helm show values lengochieu1604/ambassador-ssl > myvalues.yaml
