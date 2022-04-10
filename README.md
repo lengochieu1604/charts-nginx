@@ -17,3 +17,7 @@ Some common Helm commands for you
 ## Install chart with your configurations
     $ helm install nginx3 lengochieu1604/nginx2
 ![image](https://user-images.githubusercontent.com/98753976/162600921-8353acf5-348d-4c35-ac10-d6a31a92b6a1.png)
+
+## Output
+![image](https://user-images.githubusercontent.com/98753976/162600987-26334f05-cf00-4d78-a5e6-d98c5f173618.png)
+
