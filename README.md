@@ -2,7 +2,7 @@
 
 Usage
 Some common Helm commands for you
-
+ 
 ## Add repo before using
     $ helm repo add lengochieu1604 https://raw.githubusercontent.com/lengochieu1604/charts-nginx/main/
     "lengochieu1604" has been added to your repositories
